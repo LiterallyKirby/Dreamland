@@ -1,4 +1,4 @@
-module popstar
+module dreamland
 
 go 1.23.3
 
